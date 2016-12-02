@@ -20,8 +20,8 @@ Regardless of dynamic or open settings, all candles express counter-trend sentim
 
 #### How can I get MomentumBars for NinjaTrader 7?
 
-* [Download](https://gitlab.com/coroin-ninjatrader/momentumbars/raw/master/bin/MomentumBarsType7.zip) the latest NinjaTrader7 zip import (exported 2016-11-03 for NT7v31).
-* Clone repo: https://gitlab.com/coroin-ninjatrader/momentumbars.git
+* [Download](https://gitlab.com/coroin-ninja/momentumbars/raw/master/bin/MomentumBarsType7.zip) the latest NinjaTrader7 zip import (exported 2016-11-03 for NT7v31).
+* Clone repo: https://gitlab.com/coroin-ninja/momentumbars.git
 
 #### How do I get my charts to look like the images?
 
