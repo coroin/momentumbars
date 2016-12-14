@@ -14,13 +14,9 @@ There are two OpenOptions:
 
 Regardless of dynamic or open settings, all candles express counter-trend sentiment as a wick (just like traditional range bars), meaning no upper wick on bull bar; no lower wick on bear bar; session-break bars may be dojis with upper/lower wicks.
 
-#### How can I get MomentumBars for NinjaTrader 8?
-
-* The NT8 version currently in development and is expected to release before end of year.
-
-#### How can I get MomentumBars for NinjaTrader 7?
-
-* [Download](https://gitlab.com/coroin-ninja/momentumbars/raw/master/bin/MomentumBarsType7.zip) the latest NinjaTrader7 zip import (exported 2016-11-03 for NT7v31).
+#### How can I get MomentumBars?
+* NinjaTrader 8 : [Download](https://gitlab.com/coroin-ninja/momentumbars/raw/master/bin/MomentumBarsType8.zip) the latest zip (exported 2016-12-14 from NT 8.0.1.0).
+* NinjaTrader 7: [Download](https://gitlab.com/coroin-ninja/momentumbars/raw/master/bin/MomentumBarsType7.zip) the latest zip (exported 2016-11-03 from NT7v31).
 * Clone repo: https://gitlab.com/coroin-ninja/momentumbars.git
 
 #### How do I get my charts to look like the images?
