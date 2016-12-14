@@ -191,7 +191,7 @@ namespace NinjaTrader.NinjaScript.BarsTypes
                 // set display labels
                 SetPropertyName("Value", "Range Min");
                 SetPropertyName("BaseBarsPeriodValue", "Range Max");
-                SetPropertyName("Value2", "1=NoGap; 2=Real");
+                SetPropertyName("Value2", "1=NoGap; 2=TrueOpen");
 
                 // swap min/max if entered incorrectly
                 int tmpMin = this.BarsPeriod.Value;
