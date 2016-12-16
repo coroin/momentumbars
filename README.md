@@ -12,6 +12,8 @@ There are two OpenOptions:
 * NoGap artifically sets the open of each candle to the close of the previous.
 * TrueOpen uses the actual open.
 
+See [this page](http://coroin.com/news/momentumbars8-beta/) for screenshots showing each combination.
+
 Regardless of dynamic or open settings, all candles express counter-trend sentiment as a wick (just like traditional range bars), meaning no upper wick on bull bar; no lower wick on bear bar; session-break bars may be dojis with upper/lower wicks.
 
 #### How can I get MomentumBars?
