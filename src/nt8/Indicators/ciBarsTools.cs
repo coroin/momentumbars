@@ -1,4 +1,4 @@
-﻿//
+//
 // Copyright (C) 2011-2016, Coroin LLC <http://coroin.com>
 //
 // This program is free software: you can redistribute it and/or modify
@@ -255,5 +255,5 @@ namespace NinjaTrader.NinjaScript.Indicators
 public enum ciRangeCalcType
 {
     OpenClose = 0,
-    HighLow = 1,
+    HighLow   = 1,
 }
